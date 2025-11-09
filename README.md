@@ -46,7 +46,7 @@ From inside the scripts folder:
 cd scripts
 chmod +x *.sh
 
-cd Assignment5/scripts
+cd Capstone_Project/scripts
 ./maintenance_menu.sh
 
 1) Run Backup
